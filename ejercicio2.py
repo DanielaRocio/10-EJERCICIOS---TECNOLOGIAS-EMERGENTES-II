@@ -1,4 +1,4 @@
-# ESTUDIANTE : JOSE ANTONIO CRUZ ALCON PARALELO: 7C MATERIA: EMERGENTES II
+# ESTUDIANTE : DANIELA ROCIO MAMANI PERALTA RU: 15006398 PARALELO: 7C NOCHE
 # Variables en Python
 edad = 20           # Entero (int)
 precio = 50.5       # Flotante (float)
