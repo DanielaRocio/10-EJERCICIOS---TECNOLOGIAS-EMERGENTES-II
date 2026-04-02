@@ -1,4 +1,4 @@
-# ESTUDIANTE : JOSE ANTONIO CRUZ ALCON PARALELO: 7C MATERIA: EMERGENTES II
+# ESTUDIANTE : DANIELA ROCIO MAMANI PERALTA RU: 15006398 PARALELO: 7C NOCHE
 num1 = input("Ingresa el primer número: ")
 num2 = input("Ingresa el segundo número: ")
 
